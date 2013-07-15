@@ -6,7 +6,9 @@ public class MyRemoteGitHubClass {
    //Change #1
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Change #2... Try to get into gitHub only using eclipse.... 
+		// Q: Did I do it?  If so, how?
+     	// A:  
 
 	}
 
